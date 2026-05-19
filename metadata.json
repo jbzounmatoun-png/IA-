@@ -1,0 +1,6 @@
+{
+  "name": "Wiki Love",
+  "description": "IA Mentor & Conseiller de couple avec mémoire partagée pour Merveille et Jean-Baptiste.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
